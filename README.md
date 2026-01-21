@@ -1,4 +1,4 @@
-# PerfomansLab
+# Perfomance-Lab
 
 ## Задание 1
 
